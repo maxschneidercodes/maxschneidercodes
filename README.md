@@ -1,4 +1,6 @@
 
+![Bildschirmfoto 2022-01-11 um 16 36 39](https://user-images.githubusercontent.com/45995648/148972366-f8ef3e0b-855e-4b91-a1e5-70bdf4ca385f.png)
+
 <h1 align="center">
 Hi there, I'm <a href="https://maxschneidercodes.netlify.app/" target="_blank" rel="noreferrer">Max</a> 👋
 </h1>
