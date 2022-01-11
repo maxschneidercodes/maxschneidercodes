@@ -1,4 +1,4 @@
-![asd](https://user-images.githubusercontent.com/45995648/148972901-4b7c6476-b6ed-4543-83a5-b0b54c49ca4d.png)
+![asd](https://user-images.githubusercontent.com/45995648/148986147-8f6fc7d1-410a-401c-9ca9-df7ed7552486.png)
 
 I enjoy creating Websites and Apps. I really like to solve problems and wrap my head arround difficult bugs. You'll find me using modern frontend technologies to bring the project to life. Moreover I am a passionate Christian and I like Fitness.
 
