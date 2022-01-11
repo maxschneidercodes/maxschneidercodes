@@ -13,7 +13,7 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 
 ## 💼 Technical Skills
 
-### Front End
+### Frontend
 
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
@@ -25,7 +25,7 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=ef5238)
 
 
-### Back End
+### Backend
 
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node&color=82bb01)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=Express&color=333)
