@@ -33,10 +33,7 @@ You'll find me using modern frontend technologies to bring the project to life.
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
-</br>
 ## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxschneidercodes)](https://github.com/maxschneidercodes)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact)](https://github.com/maxschneidercodes)
 
