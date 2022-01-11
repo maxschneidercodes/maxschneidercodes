@@ -29,14 +29,11 @@ You'll find me using modern frontend technologies to bring the project to life.
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 
 
-<br />
-
 ### Back End
 
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Nodejs&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=F7DF1E)
 
-<br/>
 
 ### Tools
 
