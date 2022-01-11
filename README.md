@@ -29,7 +29,7 @@ You'll find me using modern frontend technologies to bring the project to life.
 
 ### Back End
 
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node&color=333)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node&color=82bb01)
 ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=Express&color=333)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47a248)
 
