@@ -1,23 +1,18 @@
 
-</br>
-
 <h1 align="center">
 Hi there, I'm <a href="https://maxschneidercodes.netlify.app/" target="_blank" rel="noreferrer">Max</a> 👋
 </h1>
 
-</br>
 
 <h2 align="center">
 I'm a Junior Front End Developer.
 </h2> 
 
-</br>
 
 I enjoy creating Websites and Apps.
 I really like to solve problems and wrap my head arround difficult bugs.
 You'll find me using modern frontend technologies to bring the project to life.
 
-</br>
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -46,5 +41,3 @@ You'll find me using modern frontend technologies to bring the project to life.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact)](https://github.com/maxschneidercodes)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
-
-</br>
