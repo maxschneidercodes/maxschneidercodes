@@ -9,11 +9,7 @@ I'm a Junior Front End Developer.
 </h2> 
 
 
-I enjoy creating Websites and Apps.
-I really like to solve problems and wrap my head arround difficult bugs.
-You'll find me using modern frontend technologies to bring the project to life.
-
-Moreover I am a passionate Christian and I like Fitness.
+I enjoy creating Websites and Apps. I really like to solve problems and wrap my head arround difficult bugs. You'll find me using modern frontend technologies to bring the project to life. Moreover I am a passionate Christian and I like Fitness.
 
 ## 💼 Technical Skills
 
