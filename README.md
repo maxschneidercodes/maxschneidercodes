@@ -1,6 +1,4 @@
-
-
-![Bildschirmfoto 2022-01-11 um 16 37 45](https://user-images.githubusercontent.com/45995648/148972530-bafa0128-c764-46f9-bc57-e58722a76030.png)
+![asd](https://user-images.githubusercontent.com/45995648/148972901-4b7c6476-b6ed-4543-83a5-b0b54c49ca4d.png)
 
 I enjoy creating Websites and Apps. I really like to solve problems and wrap my head arround difficult bugs. You'll find me using modern frontend technologies to bring the project to life. Moreover I am a passionate Christian and I like Fitness.
 
