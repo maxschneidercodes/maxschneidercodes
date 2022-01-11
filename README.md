@@ -17,9 +17,9 @@ You'll find me using modern frontend technologies to bring the project to life.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Nodejs&color=61DAFB)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Nodejs&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=#f04427)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=C Sharp&color=#f04427)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&color=#f04427)
 
 </br>
 
