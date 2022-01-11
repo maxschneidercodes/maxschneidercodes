@@ -22,21 +22,21 @@ You'll find me using modern frontend technologies to bring the project to life.
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=#f04427)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=CSharp&color=#f04427)
 
-</br>
 
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&color=1572B6)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 
-</br>
+
+<br />
 
 ### Back End
 
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Nodejs&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=F7DF1E)
 
-</br>
+<br/>
 
 ### Tools
 
