@@ -35,6 +35,8 @@ You'll find me using modern frontend technologies to bring the project to life.
 
 ## 📈 GitHub Stats 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxschneidercodes)](https://github.com/maxschneidercodes)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact)](https://github.com/maxschneidercodes)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
