@@ -1,3 +1,6 @@
+
+</br>
+
 <h1 align="center">
 Hi there, I'm <a href="https://maxschneidercodes.netlify.app/" target="_blank" rel="noreferrer">Max</a> 👋
 </h1>
