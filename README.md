@@ -18,7 +18,7 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 
 ### Backend
 
-- ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node&color=82bb01)
+- ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Nodejs&color=82bb01)
 - ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express&color=333)
 - ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47a248)
 
@@ -33,8 +33,8 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 
 - ![](https://img.shields.io/badge/Principles-OOP-informational?style=flat&logo=OOP&color=333)
 - ![](https://img.shields.io/badge/Principles-DRY-informational?style=flat&logo=DRY&color=333)
-- ![](https://img.shields.io/badge/Principles-Responsive-Design-informational?style=flat&logo=DRY&color=333)
-- ![](https://img.shields.io/badge/Principles-Mobile-First-Design-informational?style=flat&logo=DRY&color=333)
+- ![](https://img.shields.io/badge/Principles-ResponsiveDesign-informational?style=flat&logo=DRY&color=333)
+- ![](https://img.shields.io/badge/Principles-MobileFirstDesign-informational?style=flat&logo=DRY&color=333)
 
 ### Testing
 
