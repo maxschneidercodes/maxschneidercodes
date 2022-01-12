@@ -31,11 +31,11 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 
 ### Principles
 
--
+
 
 ### Testing
 
--
+
 
 ## 📚 Currently learning 
 
