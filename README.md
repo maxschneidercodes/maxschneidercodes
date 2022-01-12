@@ -37,7 +37,7 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 
 -
 
-## Currently Learning 
+## 📚 Currently learning 
 
 ![](https://img.shields.io/badge/Testing-Jasmine-informational?style=flat&logo=Jasmine&color=8b4182)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
