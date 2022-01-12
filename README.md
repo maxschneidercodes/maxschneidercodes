@@ -46,7 +46,7 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 2. ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 3. ![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=333)
 4. ![](https://img.shields.io/badge/Principles-Scrum-informational?style=flat&logo=Scrum&color=333)
-5. ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=Reactnative&color=06BCEE)
+5. ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react-native&color=06BCEE)
 6.  ![](https://img.shields.io/badge/Code-ReactRedux-informational?style=flat&logo=Redux&color=7850B7)
 
 ## 📈 GitHub Stats 
