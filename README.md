@@ -52,7 +52,19 @@
 # 📈 Github Stats 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact)](https://github.com/maxschneidercodes)
+[![Top Langs]()](https://github.com/maxschneidercodes)
+
+
+ 
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact" width="250" height="400" />
+    </td>
+   <td valign="top">
+    <img src="https://github-readme-stats.vercel.app/api?username=maxschneidercodes&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+   </td>
+</table>
 
 
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
