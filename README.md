@@ -42,10 +42,11 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 
 # 📚 Currently learning 
 
-1. ![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=333)
+![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=333)
 
 # 📈 Github Stats 
 <div align="center">
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact)](https://github.com/maxschneidercodes)
 
 
