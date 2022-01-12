@@ -50,12 +50,6 @@
 ![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=333)
 
 # 📈 Github Stats 
-<div align="center">
- 
-[![Top Langs]()](https://github.com/maxschneidercodes)
-
-
- 
 <table>
   <tr>
     <td valign="top">
@@ -66,7 +60,7 @@
    </td>
 </table>
 
-
+<div align="center">
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
   
 </div>
