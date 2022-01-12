@@ -45,9 +45,8 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 1. ![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=333)
 
 ## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxschneidercodes)](https://github.com/maxschneidercodes)
+You are the Visitor number: 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact)](https://github.com/maxschneidercodes)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
