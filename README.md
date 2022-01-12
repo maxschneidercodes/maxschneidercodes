@@ -61,6 +61,7 @@
 </table>
 
 <div align="center">
+ 
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
   
 </div>
