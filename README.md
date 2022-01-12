@@ -48,7 +48,8 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact)](https://github.com/maxschneidercodes)
 <div align="center">
-  Page Visitors:
+
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
+  
 </div>
 
