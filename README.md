@@ -1,5 +1,5 @@
 ![asd](https://user-images.githubusercontent.com/45995648/148986147-8f6fc7d1-410a-401c-9ca9-df7ed7552486.png)
-
+<div align="center">
 I enjoy creating Websites and Apps. I really like to solve problems and wrap my head arround difficult bugs. You'll find me using modern frontend technologies to bring the project to life. Moreover I am a passionate Christian and I like Fitness.
 
 ## 💼 Technical Skills
@@ -47,7 +47,7 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 ## 📈 Github Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact)](https://github.com/maxschneidercodes)
-<div align="center">
+
 
  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
   
