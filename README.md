@@ -26,10 +26,23 @@ I enjoy creating Websites and Apps. I really like to solve problems and wrap my 
 ### Tools
 
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 
+### Principles
+
+-
+
+### Testing
+
+-
+
+## Currently Learning 
+
+![](https://img.shields.io/badge/Testing-Jasmine-informational?style=flat&logo=Jasmine&color=8b4182)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Principles-Scrum-informational?style=flat&logo=Scrum&color=F05032)
+![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=F05032)
 
 ## 📈 GitHub Stats 
 
