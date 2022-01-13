@@ -9,6 +9,11 @@
 
 # 💼 Technical Skills
 
+### Programming languages
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=ef5238)
+
 ### Frontend
 
 ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
@@ -16,17 +21,14 @@
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&color=cc6598)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=ef5238)
-
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Library-CRA-informational?style=flat&logo=createreactapp&color=09D3AC)
 
 
 ### Backend
 
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=82bb01)
-![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express&color=333)
+![](https://img.shields.io/badge/Library-Node.js-informational?style=flat&logo=Node.js&color=82bb01)
+![](https://img.shields.io/badge/Library-Express.js-informational?style=flat&logo=Express&color=333)
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47a248)
 
