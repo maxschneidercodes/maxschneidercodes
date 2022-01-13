@@ -40,14 +40,14 @@
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&color=007ACC)
 
-### Principles 
+### Principles & Architectures
 
-![](https://img.shields.io/badge/Principles-OOP-informational?style=flat&logo=OOP&color=333)
 ![](https://img.shields.io/badge/Principles-DRY-informational?style=flat&logo=DRY&color=333)
-![](https://img.shields.io/badge/Principles-ResponsiveDesign-informational?style=flat&logo=DRY&color=333)
-![](https://img.shields.io/badge/Principles-MobileFirstDesign-informational?style=flat&logo=DRY&color=333)
-![](https://img.shields.io/badge/Principles-ModelViewController-informational?style=flat&logo=DRY&color=333)
-![](https://img.shields.io/badge/Principles-ModelViewViewModel-informational?style=flat&logo=DRY&color=333)
+
+![](https://img.shields.io/badge/Architecture-ResponsiveDesign-informational?style=flat&logo=DRY&color=333)
+![](https://img.shields.io/badge/Architecture-MobileFirstDesign-informational?style=flat&logo=DRY&color=333)
+![](https://img.shields.io/badge/Architecture-OOP-informational?style=flat&logo=OOP&color=333)
+![](https://img.shields.io/badge/Architecture-MVC/MVVM-informational?style=flat&logo=DRY&color=333)
 
 ### Testing
 
