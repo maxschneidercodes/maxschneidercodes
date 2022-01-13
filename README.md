@@ -19,8 +19,8 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=ef5238)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-CRA-informational?style=flat&logo=createreactapp&color=09D3AC)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Library-CRA-informational?style=flat&logo=createreactapp&color=09D3AC)
 
 
 ### Backend
