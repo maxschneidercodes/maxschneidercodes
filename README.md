@@ -46,6 +46,8 @@
 ![](https://img.shields.io/badge/Principles-DRY-informational?style=flat&logo=DRY&color=333)
 ![](https://img.shields.io/badge/Principles-ResponsiveDesign-informational?style=flat&logo=DRY&color=333)
 ![](https://img.shields.io/badge/Principles-MobileFirstDesign-informational?style=flat&logo=DRY&color=333)
+![](https://img.shields.io/badge/Principles-ModelViewController-informational?style=flat&logo=DRY&color=333)
+![](https://img.shields.io/badge/Principles-ModelViewViewModel-informational?style=flat&logo=DRY&color=333)
 
 ### Testing
 
