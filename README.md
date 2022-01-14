@@ -42,7 +42,7 @@
 
 ### Principles 
 
-![](https://img.shields.io/badge/Principles-DRY-informational?style=flat&logo=DRY&color=333)
+![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=333)
 
 ### Architectures
 
@@ -56,7 +56,6 @@
 
 # 📚 Currently learning 
 
-![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=333)
 
 # 📈 Github Stats 
 <table>
