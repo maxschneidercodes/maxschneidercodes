@@ -56,6 +56,7 @@
 
 # 📚 Currently learning 
 
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 
 # 📈 Github Stats 
 <table>
