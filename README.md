@@ -32,6 +32,8 @@
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47a248)
 
+### Testing
+.
 
 ### Tools
 
@@ -52,11 +54,10 @@
 ![](https://img.shields.io/badge/Architecture-OOP-informational?style=flat&logo=OOP&color=333)
 ![](https://img.shields.io/badge/Architecture-MVC/MVVM-informational?style=flat&logo=DRY&color=333)
 
-### Testing
 
 
 # 📚 Currently learning 
--
+- ![](https://img.shields.io/badge/Testing-Jasmine-informational?style=flat&logo=Jasmine&color=8b4182)
 
 # 📈 Github Stats 
 <table>
