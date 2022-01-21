@@ -61,7 +61,7 @@
 # 📝 Learning List
 
 ![](https://img.shields.io/badge/Library-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=#3178C6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
 ![](https://img.shields.io/badge/Testing-Jasmine-informational?style=flat&logo=Jasmine&color=8b4182)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=react&color=61DAFB) 
 ![](https://img.shields.io/badge/Code-ReactRedux-informational?style=flat&logo=Redux&color=7850B7)
