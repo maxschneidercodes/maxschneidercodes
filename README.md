@@ -12,7 +12,6 @@
 ### Programming languages
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=ef5238)
 
 ### Frontend
 
