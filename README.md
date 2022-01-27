@@ -57,10 +57,6 @@
 
 # 📚 Currently learning 
 
-![](https://img.shields.io/badge/Library-ReactNative-informational?style=flat&logo=react&color=61DAFB) 
-
-![](https://img.shields.io/badge/Library-ReactRedux-informational?style=flat&logo=Redux&color=7850B7)
-
 
 # 📝 Learning List
 
