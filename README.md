@@ -57,7 +57,9 @@
 
 # 📚 Currently learning 
 
-![](https://img.shields.io/badge/Testing-Jasmine-informational?style=flat&logo=Jasmine&color=8b4182)
+![](https://img.shields.io/badge/Library-ReactNative-informational?style=flat&logo=react&color=61DAFB) 
+
+![](https://img.shields.io/badge/Library-ReactRedux-informational?style=flat&logo=Redux&color=7850B7)
 
 
 # 📝 Learning List
@@ -66,9 +68,7 @@
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
 
-![](https://img.shields.io/badge/Library-ReactNative-informational?style=flat&logo=react&color=61DAFB) 
-
-![](https://img.shields.io/badge/Library-ReactRedux-informational?style=flat&logo=Redux&color=7850B7)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&color=C21325)
 
 ![](https://img.shields.io/badge/Principles-Scrum-informational?style=flat&logo=Scrum&color=333)
 
