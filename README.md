@@ -69,5 +69,4 @@
    </td>
 </table>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.maxschneidercodes)](https://maxschneidercodes.netlify.app/)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
