@@ -31,6 +31,7 @@
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47a248)
 
+
 ### Testing
 .
 
@@ -58,13 +59,6 @@
 
 ![](https://img.shields.io/badge/Library-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
 
-# 📝 Learning List
-
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
-
-![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&color=C21325)
-
-![](https://img.shields.io/badge/Principles-Scrum-informational?style=flat&logo=Scrum&color=333)
 
 # 📈 Github Stats 
 <table>
