@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Library-Express.js-informational?style=flat&logo=Express&color=333)
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47a248)
-![](https:://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&color=ffca28)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&color=ffca28)
 
 
 ### Tools
