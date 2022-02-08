@@ -59,6 +59,8 @@
 
 
 # 📈 Github Stats 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 <table>
   <tr>
     <td valign="top">
@@ -69,4 +71,3 @@
    </td>
 </table>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=maxschneidercodes.visitor-badge)
