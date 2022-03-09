@@ -54,7 +54,7 @@
 ![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&color=000000)
 
 
-![](https://img.shields.io/badge/CMS-Contentful-informational?style=flat&logo=vercel&color=2478CC)
+![](https://img.shields.io/badge/CMS-Contentful-informational?style=flat&logo=Contentful&color=2478CC)
 
 
 ### Principles 
