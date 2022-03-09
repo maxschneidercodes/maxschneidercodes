@@ -47,11 +47,14 @@
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&color=007ACC)
 
 
-### Hosting 
+### Hosting & Content-Management-System
 
 ![](https://img.shields.io/badge/Hosting-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Hosting-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&color=000000)
+
+
+![](https://img.shields.io/badge/CMS-Contentful-informational?style=flat&logo=vercel&color=2478CC)
 
 
 ### Principles 
