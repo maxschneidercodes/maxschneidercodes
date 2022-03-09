@@ -68,16 +68,3 @@
 # 📚 Currently learning 
 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
-
-# 📈 Github Stats 
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxschneidercodes&layout=compact" />
-    </td>
-   <td valign="top">
-    <img src="https://github-readme-stats.vercel.app/api?username=maxschneidercodes&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-   </td>
-</table>
-
