@@ -7,11 +7,11 @@
 <p>The dog on my pfp is Willy a Boxer 🐶</p>
 </div>
 
-
-| Item         | Price     | # In stock |
-|--------------|-----------|------------|
-| Juicy Apples | 1.99      | *7*        |
-| Bananas      | **1.89**  | 5234       |
+| Code                                                                                                    |   |   |   |   |
+|---------------------------------------------------------------------------------------------------------|---|---|---|---|
+| ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) |   |   |   |   |
+|                                                                                                         |   |   |   |   |
+|                                                                                                         |   |   |   |   |
 
 # 💼 Technical Skills
 
