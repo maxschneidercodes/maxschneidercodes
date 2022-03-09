@@ -22,7 +22,6 @@
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Library-CRA-informational?style=flat&logo=createreactapp&color=09D3AC)
 ![](https://img.shields.io/badge/Library-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
 
 ### Backend
