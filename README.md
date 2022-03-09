@@ -7,6 +7,12 @@
 <p>The dog on my pfp is Willy a Boxer 🐶</p>
 </div>
 
+
+| Item         | Price     | # In stock |
+|--------------|-----------|------------|
+| Juicy Apples | 1.99      | *7*        |
+| Bananas      | **1.89**  | 5234       |
+
 # 💼 Technical Skills
 
 ### Programming languages
