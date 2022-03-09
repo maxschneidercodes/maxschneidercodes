@@ -32,22 +32,32 @@
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&color=ffca28)
 
 
-### Tools
+### Workflow
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+
+### Tools
+
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 
 
+### Integrated Development Environment
+
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&color=007ACC)
 
-![](https://img.shields.io/badge/Provider-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Provider-Vercel-informational?style=flat&logo=vercel&color=000000)
+
+### Hosting 
+
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Hosting-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&color=000000)
 
 
 ### Principles 
 
 ![](https://img.shields.io/badge/Principles-CleanCode-informational?style=flat&logo=CleanCode&color=333)
+
 
 ### Architectures
 
