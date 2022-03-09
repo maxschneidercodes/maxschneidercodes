@@ -27,7 +27,7 @@
 ### Backend
 
 ![](https://img.shields.io/badge/Library-Node.js-informational?style=flat&logo=Node.js&color=82bb01)
-![](https://img.shields.io/badge/Library-Express.js-informational?style=flat&logo=Express&color=333)
+![](https://img.shields.io/badge/Library-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47a248)
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&color=ffca28)
@@ -54,8 +54,6 @@
 
 
 # 📚 Currently learning 
-
-![](https://img.shields.io/badge/Library-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
 
 
 # 📈 Github Stats 
