@@ -34,7 +34,7 @@
 
 ### Workflow
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Workflow-Git-informational?style=flat&logo=Git&color=F05032)
 
 
 ### Tools
