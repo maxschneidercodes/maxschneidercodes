@@ -68,6 +68,7 @@
 # 📚 Currently learning 
 
 
+![](https://img.shields.io/badge/Architecture-MobileFirstDesign-informational?style=flat&logo=TypeScript&color=3178C6)
 # 📈 Github Stats 
 
 <table>
