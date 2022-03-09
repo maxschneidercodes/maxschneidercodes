@@ -67,7 +67,7 @@
 
 # 📚 Currently learning 
 
-![](https://img.shields.io/badge/Code-informational?style=flat&logo=TypeScript&color=3178C6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 
 # 📈 Github Stats 
 
