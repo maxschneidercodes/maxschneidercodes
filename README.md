@@ -37,8 +37,13 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&color=007ACC)
+
+
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&color=007ACC)
+
+![](https://img.shields.io/badge/Provider-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Provider-Vercel-informational?style=flat&logo=vercel&color=000000)
+
 
 ### Principles 
 
