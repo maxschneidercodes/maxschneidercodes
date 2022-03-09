@@ -7,13 +7,15 @@
 <p>The dog on my pfp is Willy a Boxer 🐶</p>
 </div>
 
-| Code                                                                                                    |   |   |   |   |
-|---------------------------------------------------------------------------------------------------------|---|---|---|---|
-| ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) |   |   |   |   |
-|                                                                                                         |   |   |   |   |
-|                                                                                                         |   |   |   |   |
+                                                                                                     |   |   |   |   |
 
 # 💼 Technical Skills
+
+| Code                                                                                                    | Frontend                                                                                       |   |   |   |
+|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---|---|---|
+| ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E) | ![](https://img.shields.io/badge/Style-HTML5-informational?style=flat&logo=HTML5&color=E34F26) |   |   |   |
+|                                                                                                         | ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)   |   |   |   |
+|                                                                                                         | ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&color=cc6598)   |   |   |   |
 
 ### Programming languages
 
