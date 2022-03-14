@@ -1,7 +1,6 @@
 ![Bildschirmfoto 2022-03-14 um 10 21 25](https://user-images.githubusercontent.com/45995648/158142602-4df3bc0c-2689-4f3f-89d2-a85aaa562970.png)
 
 <div align="center">
- <h2> I enjoy creating Web Applications. </h2>
  <p> I really like to solve problems and wrap my head arround difficult bugs.
   You'll find me using modern frontend technologies to bring the project to life. 
   Moreover I am a passionate Christian and I like Fitness.</p>
