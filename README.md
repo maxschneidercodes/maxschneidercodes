@@ -8,7 +8,8 @@
 <p>The dog on my pfp is Willy a Boxer 🐶</p>
 </div>
 
-# 💼 Technical Skills
+# 💼 Technical Skills & Experience
+
 ### Programming languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ### Frontend
@@ -21,6 +22,8 @@
 ### Backend
 ![](https://img.shields.io/badge/Library-Next.js-informational?style=flat&logo=nextdotjs&color=000000)
 ![](https://img.shields.io/badge/Library-Node.js-informational?style=flat&logo=Node.js&color=82bb01)
+
+### Database
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=47a248)
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&color=ffca28)
 
@@ -32,10 +35,12 @@
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&color=007ACC)
 
 
-### Hosting & Content-Management-System
+### Hosting 
 
 ![](https://img.shields.io/badge/Hosting-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Hosting-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+
+### Content-Management-System
 ![](https://img.shields.io/badge/Hosting-Vercel-informational?style=flat&logo=vercel&color=000000)
 
 
