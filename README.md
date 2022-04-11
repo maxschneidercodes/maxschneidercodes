@@ -5,7 +5,6 @@
  <p> I really like to solve problems and wrap my head arround difficult bugs.
   You'll find me using modern frontend technologies to bring the project to life. 
   Moreover I am a passionate Christian and I like Fitness.</p>
-<p>The dog on my pfp is Willy a Boxer 🐶</p>
 </div>
 
 # 💼 Technical Skills & Experience
